@@ -1,0 +1,6 @@
+	"window.zoomlevel": 3,
+	"workbench.activityBar.visible": true,
+	"workbench.statusBar.visible": true,
+	"workbebch.colorTheme": "Oceanic Next",
+	"liveServer.settings.donotShowInfoMsg"true,
+	"edittor.minimap.enabled": false,
